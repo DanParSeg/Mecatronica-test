@@ -9,3 +9,5 @@ otro cambio
 +++++++++++++++++++++++++++++++++++++
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 +++++++++++++++++++++++++++++++++++++
+
+![](Ejercicio2-img1.gif)
